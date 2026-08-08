@@ -1,6 +1,6 @@
 # OPTIMuS-PRIME-Del
 
-> **Note:** This repository is under active construction and will be updated with additional code, data, and documentation as the manuscripts are finalized. Scripts provided here are shared for transparency and do not constitute streamlined pipelines.
+> **Note:** This repository is under active construction and will be updated with additional code, data, and documentation as the manuscript is finalized. Scripts provided here are shared for transparency and do not constitute streamlined pipelines.
 
 Code and data for: **Multiplex programming of mappable, molecularly tagged genomic deletions**
 
